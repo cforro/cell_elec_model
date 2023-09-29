@@ -1,1 +1,1 @@
-# cell_elec_model
+# Modelling the Cell-electrode interface
